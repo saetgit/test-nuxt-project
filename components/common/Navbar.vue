@@ -1,5 +1,5 @@
 <template>
-    <div class=" flex items-center h-[110px] shadow-lg p-4">
+    <div class=" flex items-center bg-white h-[110px] shadow-lg p-4">
         <div class="container mx-auto justify-between flex items-center">
             <img src="@/assets/image/icon.png" alt="icon" class="w-[300px]" />
             <ul class="flex gap-4 mx-[50px]">

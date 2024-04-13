@@ -8,8 +8,8 @@
                 </div>
             </div>
             <div class="flex justify-end">
-        <div class="rotate-90 bg-[#c3866b] text-white rounded-br-lg rounded-bl-lg px-5 py-3 fixed right-0 transform origin-bottom right mt-[20px] cursor-pointer">Make Project</div>
-        <div class="rotate-90 bg-[#c3866b] text-white rounded-br-lg rounded-bl-lg px-5 py-3 fixed right-0 transform origin-bottom right mt-[200px] cursor-pointer">Find a Project</div>
+        <div class="rotate-90 bg-[#c3866b] text-white rounded-br-lg rounded-bl-lg px-5 py-3 fixed right-[-20px] transform origin-bottom right mt-[20px] cursor-pointer">Make Project</div>
+        <div class="rotate-90 bg-[#c3866b] text-white rounded-br-lg rounded-bl-lg px-5 py-3 fixed right-[-20px] transform origin-bottom right mt-[200px] cursor-pointer">Find a Project</div>
       </div>
         </div>
     </div>
