@@ -3,6 +3,7 @@
         <CommonTopMenu />
         <CommonNavbar />
         <slot />
+        <CommonFooter/>
     </div>
 </template>
 

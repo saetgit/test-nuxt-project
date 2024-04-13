@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "imageUrl": "image/brush.svg",
+    "title": "Graphic & Design",
+    "bgColor": "#fbe7ed"
+  },
+  {
+    "id": "2",
+    "imageUrl": "image/monitor.svg",
+    "title": "Digital Marketing",
+    "bgColor": "#ccecd9"
+  },
+  {
+    "id": "3",
+    "imageUrl": "image/document-1.svg",
+    "title": "Writing & Translation",
+    "bgColor": "#fae5ff"
+  },
+  {
+    "id": "4",
+    "imageUrl": "image/video.svg",
+    "title": "Video & Animation",
+    "bgColor": "#ffe4cc"
+  },
+  {
+    "id": "5",
+    "imageUrl": "image/voice-cricle.svg",
+    "title": "Music & Audio",
+    "bgColor": "#e5e8ff"
+  },
+  {
+    "id": "6",
+    "imageUrl": "image/code.svg",
+    "title": "Programming & Tech",
+    "bgColor": "#fffbe5"
+  },
+  {
+    "id": "7",
+    "imageUrl": "image/calendar-edit.svg",
+    "title": "Bussiness",
+    "bgColor": "#f6e5e5"
+  },
+  {
+    "id": "8",
+    "imageUrl": "image/heart.svg",
+    "title": "Lifestyle",
+    "bgColor": "#daf0ff"
+  },
+  {
+    "id": "9",
+    "imageUrl": "image/chart.svg",
+    "title": "Data",
+    "bgColor": "#fff8f6"
+  },
+  {
+    "id": "10",
+    "imageUrl": "image/camera.svg",
+    "title": "Photography",
+    "bgColor": "#e9fbf8"
+  }
+]
