@@ -11,13 +11,13 @@
             </ul>
             <ul class="flex">
                 <li>
-                    <img src="../../static/icon/user-add.png" class="ml-2 w-5"/>
+                    <img src="@/assets/svg/user-plus.svg" alt="User Icon">
                 </li>
                 <li>
                     <span class="separator">|</span>
                 </li>
                 <li>
-                    <img src="../../static/icon/user-icon.png" class="w-5"/>
+                    <img src="@/assets/svg/user.svg" alt="User">
                 </li>
             </ul>
         </div>
@@ -35,7 +35,8 @@ const menuItems = ref(['BPMS Home Page', 'About US']);
     padding: 0 10px;
     color: white;
 }
-li{
+
+li {
     cursor: pointer;
 }
 </style>
