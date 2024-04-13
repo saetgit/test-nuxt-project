@@ -1,5 +1,5 @@
 <template>
-    <TopMenu/>
+    <CommonTopMenu/>
 </template>
 
 <script setup>
